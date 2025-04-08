@@ -1,0 +1,9 @@
+# Ignore executable
+sshell
+
+# Ignore object files
+*.o
+
+# Ignore Makefile and README
+Makefile
+README.txt
