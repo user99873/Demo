@@ -10,6 +10,8 @@
 #include "sshell.h"
 #include "cmd.h"
 
+int dummyVal=1;
+
 /*
  * sshell.c contains the main shell routine, which takes user input
  * and parses it into commands and arguments.
