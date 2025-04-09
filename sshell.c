@@ -11,7 +11,7 @@
 #include "cmd.h"
 
 
-int dummyVal=1011;
+int dummyVal=1022;
 
 
 /*
