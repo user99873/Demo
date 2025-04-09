@@ -59,7 +59,7 @@ int doFork(struct cmd* cmd){
     return WEXITSTATUS(returnVal);
 }
 
-int value=4;
+int value=40000000;
 
 
 /*
