@@ -12,12 +12,9 @@
 
 
 int dummyVal=1022;
-
+int x=1;
 
 /*
- * sshell.c contains the main shell routine, which takes user input
- * and parses it into commands and arguments.
- *
  * Input is first parsed with getCmd(), which sets the command as "exit" if
  * input is EOF. getCmd() also sends user input to a file if stdin isnt connected
  * to the terminal.
