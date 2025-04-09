@@ -7,3 +7,6 @@ sshell
 # Ignore Makefile and README
 Makefile
 README.txt
+.project
+.classpath
+.settings/
