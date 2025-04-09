@@ -20,6 +20,10 @@ struct cmd* cmdConstructor(){
     return cmd;
 }
 
+void randomFunction(){
+    printf("random");
+}
+
 /*
  * Retrieves shell entry from command prompt
  *

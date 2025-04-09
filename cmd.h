@@ -44,6 +44,8 @@ struct cmd* cmdConstructor();
  */
 void getCmd(struct cmd* cmd);
 
+void randomFunction();
+
 /*
  * The shell input is tokenized and converted into
  * arguments.
