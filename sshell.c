@@ -14,6 +14,8 @@
 int dummyVal=1022;
 int x=1;
 
+int y=1;
+
 /*
  * Input is first parsed with getCmd(), which sets the command as "exit" if
  * input is EOF. getCmd() also sends user input to a file if stdin isnt connected
