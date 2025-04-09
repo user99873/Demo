@@ -10,7 +10,7 @@
 #include "sshell.h"
 #include "cmd.h"
 
-int dummyVal=1000;
+int dummyVal=10;
 
 /*
  * sshell.c contains the main shell routine, which takes user input
