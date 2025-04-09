@@ -60,7 +60,7 @@ int doFork(struct cmd* cmd){
 }
 
 
-int value=40000000;
+int value=4;
 
 
 /*
