@@ -59,7 +59,8 @@ int doFork(struct cmd* cmd){
     return WEXITSTATUS(returnVal);
 }
 
-int value=3;
+int value=4;
+
 
 /*
  * The routine for the shell
