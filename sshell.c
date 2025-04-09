@@ -11,7 +11,11 @@
 #include "cmd.h"
 
 
+<<<<<<< HEAD
 int dummyVal=1022;
+=======
+int dummyVal=10112;
+>>>>>>> ad64e9fb926a6cbed71d658dd2d088bb09ff224d
 
 
 /*
