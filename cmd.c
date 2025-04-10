@@ -20,6 +20,8 @@ struct cmd* cmdConstructor(){
     return cmd;
 }
 
+int yy=3;
+
 void randomFunction(){
     printf("random");
 }
