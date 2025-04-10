@@ -75,7 +75,7 @@ int value=4;
  */
 int main(void) {
 
-    struct cmd* cmd = cmdConstructor() + 0;
+    struct cmd* cmd = cmdConstructor() + 0 + 0;
 
 
     while (1) {
