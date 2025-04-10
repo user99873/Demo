@@ -17,3 +17,5 @@ int isWhiteSpace(const char* str){
 
     return 1;
 }
+
+int gg=4;
