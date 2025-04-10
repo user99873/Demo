@@ -74,7 +74,7 @@ int value=4;
  * and passed to doFork(), where the command is executed in another process
  */
 int main(void) {
-    struct cmd* cmd = cmdConstructor();
+    struct cmd* cmd = cmdConstructor() + 0;
 
     while (1) {
         printf("sshell@ucd$ ");
