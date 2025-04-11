@@ -1,6 +1,7 @@
 #include "utils.h"
 #include <string.h>
 #include <ctype.h>
+#include "sshell.h"
 
 /* Checks if a string contains only whitespace characters
  *
@@ -19,3 +20,7 @@ int isWhiteSpace(const char* str){
 }
 
 int gg=4;
+
+int newImpl(){
+    anotherFunction(5);
+}
