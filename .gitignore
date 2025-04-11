@@ -10,3 +10,4 @@ README.txt
 .project
 .classpath
 .settings/
+.DS_Store
