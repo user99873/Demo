@@ -15,6 +15,7 @@ int dummyVal=1022;
 int x=1;
 int xyz=22222;
 int y=1;
+int r=5
 
 /*
  * Input is first parsed with getCmd(), which sets the command as "exit" if
