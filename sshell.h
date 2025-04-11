@@ -4,5 +4,5 @@
 #define CMD_MAX_LENGTH 512 //max allowed command line length
 #define MAX_ARG_LENGTH 16  //max allowed length of command line argument
 
-
+int anotherFunction(int x);
 #endif
