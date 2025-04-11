@@ -80,6 +80,7 @@ int main(void) {
 
     while (1) {
         printf("sshell@ucd$ ");
+	int g=1;
         fflush(stdout);
 
         getCmd(cmd);
