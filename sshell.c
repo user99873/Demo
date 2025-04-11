@@ -17,6 +17,7 @@ int xyz=22222;
 int y=1;
 int r=10;
 
+
 /*
  * Input is first parsed with getCmd(), which sets the command as "exit" if
  * input is EOF. getCmd() also sends user input to a file if stdin isnt connected
