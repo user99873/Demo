@@ -17,6 +17,7 @@ struct cmd{
     /*length of input*/
     int length;
 
+
     /*Arguments parsed from input. args[0] is the command*/
     char* args[MAX_ARG_LENGTH + 1];
 
