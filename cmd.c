@@ -7,6 +7,7 @@
 
 int x=1;
 
+
 struct cmd* cmdConstructor(){
     struct cmd* cmd = (struct cmd*)malloc(sizeof(struct cmd));
     if(cmd==NULL){
